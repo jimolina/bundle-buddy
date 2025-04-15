@@ -54,6 +54,13 @@ BundleBuddy supports:
 
 ---
 
+## Privacy
+
+🔒 **Privacy First**: BundleBuddy does not collect, store, or transmit any user data.  
+All analysis is performed **locally** within your browser and never leaves your device.
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome! If you'd like to see a new feature or language, feel free to open an issue or contribute directly.
