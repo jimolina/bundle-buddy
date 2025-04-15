@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive keys and certs
+*.pem
+*.key
+*.crt
+
+# Chrome extension build artifacts
+*.crx
+*.zip
+
+# Node.js dependencies and logs (in case we use build tools later)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Editor settings
+.vscode/
+.idea/
+
+# Cache and log files
+*.log
+.cache/
