@@ -1,0 +1,109 @@
+/* General styles for the body */
+body {
+    font-family: "Raleway", sans-serif;
+    padding: 1rem;
+    width: 320px;
+}
+
+.title {
+    color: #fff;
+    font-family: "Oswald", sans-serif;
+    font-size: 27px;
+    font-weight: 900;
+    letter-spacing: 4px;
+    padding: 1px 6px;
+    text-decoration: none;
+}
+
+.title-one {
+    background-color: #F6AA00;
+    border-radius: 15px 0 22px 15px;
+    padding: 0 11px;
+}
+
+.title-two {
+    color: #242424;
+}
+
+/* Styles for the title and description paragraphs */
+h1, p {
+    margin: 0.5rem 0;
+}
+
+/* Button style */
+button {
+    background-image: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-color: #0275d8;
+    border-radius: .25rem;
+    color: #0275d8;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    padding: 0.5rem;
+    transition: all .2s ease-in-out;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #0275d8;
+    border-color: #0275d8;
+    color: #fff;
+}
+
+ul {
+    border-radius: 8px;
+    list-style: none;
+    margin: 0 0 1rem 0;
+    padding: 0;
+}
+
+li {
+    background-color: rgba(246, 170, 0, 0.1);
+    overflow-wrap: break-word;
+    padding: 5px 10px 5px 10px;
+}
+
+ul ul {
+    border-radius: 0;
+    list-style: square;
+    margin: 0;
+    padding: 0 0 0 17px;
+}
+
+ul ul li {
+    background-color: transparent;
+    padding: 1px 0;
+}
+
+.row-title {
+    background-color: rgba(246, 170, 0, 0.6);
+    border-radius: 8px 8px 0 0;
+    font-family: "Oswald", sans-serif;
+    font-size: 1rem;
+    padding: 2px 10px 3px;
+}
+
+.row-content {
+    border-radius: 0 0 8px 8px;
+}
+
+.row-duplicated {
+    color: red;
+}
+
+.row-separator {
+    background-color: white;
+}
+
+/* Error message styling */
+p.error {
+color: red;
+}
+  

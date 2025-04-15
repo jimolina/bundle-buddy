@@ -1,0 +1,17 @@
+{
+    "extension_name": {
+        "message": "BundleBuddy"
+    },
+    "extension_description": {
+        "message": "Analyze JS bundles and find \"possible\" duplicates"
+    },
+    "scan_button": {
+        "message": "Scan"
+    },
+    "error_no_tab": {
+        "message": "Unable to access the active tab. Please make sure a tab is open."
+    },
+    "error_no_result": {
+        "message": "Unable to get the analysis result."
+    }
+  }

@@ -1,0 +1,18 @@
+{
+    "extension_name": {
+      "message": "BundleBuddy"
+    },
+    "extension_description": {
+      "message": "Analisa pacotes JS e encontra \"possíveis\" duplicatas"
+    },
+    "scan_button": {
+      "message": "Analisar"
+    },
+    "error_no_tab": {
+      "message": "Não foi possível acessar a aba ativa. Certifique-se de que há uma aba aberta."
+    },
+    "error_no_result": {
+      "message": "Não foi possível obter os resultados da análise."
+    }
+  }
+  

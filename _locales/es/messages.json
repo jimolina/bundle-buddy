@@ -1,0 +1,17 @@
+{
+    "extension_name": {
+      "message": "BundleBuddy"
+    },
+    "extension_description": {
+      "message": "Analiza los paquetes JS y encuentra \"posibles\" duplicados"
+    },
+    "scan_button": {
+      "message": "Escanear"
+    },
+    "error_no_tab": {
+        "message": "No se pudo acceder a la pestaña activa. Asegúrate de que haya una pestaña abierta."
+    },
+    "error_no_result": {
+        "message": "No se pudieron obtener los datos del análisis."
+    }
+  }

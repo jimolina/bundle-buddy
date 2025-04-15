@@ -1,0 +1,18 @@
+{
+    "extension_name": {
+      "message": "BundleBuddy"
+    },
+    "extension_description": {
+      "message": "Analyse les paquets JS et trouve les \"doublons\" possibles"
+    },
+    "scan_button": {
+      "message": "Analyser"
+    },
+    "error_no_tab": {
+      "message": "Impossible d'accéder à l'onglet actif. Veuillez vous assurer qu'un onglet est ouvert."
+    },
+    "error_no_result": {
+      "message": "Impossible d'obtenir les résultats de l'analyse."
+    }
+  }
+  
