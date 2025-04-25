@@ -2,6 +2,7 @@
 
 **BundleBuddy** is a developer tool that helps you analyze JavaScript resources loaded on any webpage. Instantly detect scripts, spot duplicates, and visualize their usage in a clean, intuitive UI.
 
+📦 Check it out on the Chrome Web Store: [Click Here!](https://chromewebstore.google.com/detail/bundlebuddy/hbadokgcbepfmmenefpjjoofjdggmkin)
   
 <img src="https://josemolinaresume.com/uploads/portfolio/BundleBuddy-Screen-04.jpg" alt="BundleBuddy - Chrome Extension" width="500"/>
 
